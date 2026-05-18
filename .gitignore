@@ -1,0 +1,5 @@
+bin/
+*.class
+TestDB.java
+TestDB.class
+.vscode/
