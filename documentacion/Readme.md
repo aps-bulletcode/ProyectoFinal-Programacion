@@ -185,8 +185,8 @@ JOIN clientes c ON u.id = c.id;
 ### Paso 1 — Clonar el repositorio
 
 ```bash
-git clone https://github.com/amart/ProyectoFinal.git
-cd ProyectoFinal
+git clone https://github.com/aps-bulletcode/ProyectoFinal-Programacion.git
+cd ProyectoFinal-Programacion
 ```
 
 > También puedes descargar el ZIP directamente desde GitHub → **Code → Download ZIP**.
